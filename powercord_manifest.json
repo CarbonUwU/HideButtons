@@ -1,0 +1,8 @@
+{
+    "version": "1.0",
+    "author": "carbon#2389",
+    "license": "CC0",
+    "theme": "HideButtons.css",
+    "name": "HideButtons",
+    "description": "just a little thing to hide the gif / gift / help buttons"
+}

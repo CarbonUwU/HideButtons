@@ -1,0 +1,6 @@
+/* Hide the GIF / Gift / Help Button */
+.button-2fCJ0o,
+.clickable-ZD7xvu[role=switch],
+.iconWrapper-2awDjA[aria-label=Help] {
+  display: none;
+}
